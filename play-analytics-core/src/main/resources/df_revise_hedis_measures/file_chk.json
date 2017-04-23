@@ -1,0 +1,5 @@
+{"itemNo" : 1, "name" : "Ferrari", "speed" : 259 , "weight": 800},
+{"itemNo" : 2, "name" : "Jaguar", "speed" : 274 , "weight":998},
+{"itemNo" : 3, "name" : "Mercedes", "speed" : 340 , "weight": 1800},
+{"itemNo" : 4, "name" : "Audi", "speed" : 345 , "weight": 875},
+{"itemNo" : 5, "name" : "Lamborghini", "speed" : 355 , "weight": 1490}

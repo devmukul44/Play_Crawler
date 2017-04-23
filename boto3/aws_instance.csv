@@ -1,0 +1,24 @@
+Name,Type,State,Private_IP,Public_IP,Launch_Time
+ambari-cluster-02,r3.2xlarge,running,172.31.26.195,54.191.182.176,2016-05-05 18:27:07+00:00
+disney-3,t2.medium,running,172.31.40.102,54.201.11.20,2016-05-13 13:18:43+00:00
+run_instance,t2.micro,running,172.31.19.202,54.202.167.232,2017-01-24 09:30:22+00:00
+disney-1,t2.medium,running,172.31.21.43,54.191.44.173,2016-05-16 13:53:26+00:00
+datashop-client-templateapi,t2.large,running,172.31.19.110,54.191.215.13,2016-05-05 03:27:52+00:00
+Sonic-SFTP,t2.micro,running,172.31.23.186,54.187.226.79,2016-05-03 23:43:25+00:00
+disney-4,t2.medium,running,172.31.27.69,54.191.20.142,2016-05-16 06:59:21+00:00
+Datashop - client,t2.small,running,172.31.47.66,54.186.86.200,2016-06-01 12:58:25+00:00
+auto_dev2,t2.micro,running,172.31.22.99,54.201.30.64,2017-01-24 06:49:19+00:00
+Docker,t2.small,running,172.31.1.27,54.187.79.42,2016-04-30 03:09:59+00:00
+Mercy-staging-application-layer,t2.micro,running,172.31.29.238,54.191.143.121,2016-05-27 09:46:22+00:00
+ambari-cluster-03,r3.2xlarge,running,172.31.26.194,54.191.245.214,2016-05-05 18:27:07+00:00
+auto_dev3,t2.micro,running,172.31.21.177,54.203.2.174,2017-01-24 10:53:54+00:00
+Mercy-staging server-new,m4.4xlarge,running,172.31.29.84,52.38.180.117,2016-05-23 01:21:51+00:00
+,t2.micro,running,172.31.27.165,54.186.60.22,2016-09-26 05:08:53+00:00
+ambari-cluster-01 ambari host,r3.2xlarge,running,172.31.26.196,54.149.255.76,2016-05-05 18:27:07+00:00
+wk-insurance-poc,t2.medium,running,172.31.11.28,54.187.66.13,2016-03-15 10:57:38+00:00
+ambari-cluster-04 master,r3.2xlarge,running,172.31.26.193,54.191.202.154,2016-05-05 18:27:07+00:00
+auto_dev1,t2.micro,running,172.31.24.213,54.200.121.209,2017-01-24 06:49:12+00:00
+disney-2,t2.medium,running,172.31.40.103,54.186.190.195,2016-05-13 13:18:43+00:00
+testing_aditi,t2.micro,running,172.31.28.65,54.202.232.111,2017-01-22 08:20:13+00:00
+Healthone,t2.medium,running,172.31.2.193,54.187.47.186,2016-04-30 21:16:51+00:00
+mit-backend-dev,t2.medium,running,172.31.30.176,54.213.213.113,2016-03-03 09:43:33+00:00
