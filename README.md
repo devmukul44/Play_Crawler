@@ -11,10 +11,3 @@ Hosting Cloud Instances and Load Balancing - AWS EC2
 BackEnd - Flask , Jinja2
 </pre>
     FrontEnd - HTML, CSS, Bootstrap, JavaScript(vanilla)
-
-LOAD BALANCING
-
-scp -i check_dev.pem ec2_create.py ec2-user@ec2-54-202-144-242.us-west-2.compute.amazonaws.com:scp_file.py
-
-ssh -i check_dev.pem ec2-user@ec2-54-202-144-242.us-west-2.compute.amazonaws.com <<< EOF date <<<EOF
-
